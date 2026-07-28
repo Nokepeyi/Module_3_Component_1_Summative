@@ -4,7 +4,7 @@
 // ===========================================
 
 const runTasksButton = document.getElementById("runTasksButton");
-const outputElement = document.getElementById('outputElement');
+const outputElement = document.getElementById("outputElement");
 
 // ===========================================
 // DATA
